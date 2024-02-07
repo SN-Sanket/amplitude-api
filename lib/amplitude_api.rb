@@ -11,7 +11,7 @@ class AmplitudeAPI
 
   TRACK_URI_STRING        = "https://api.eu.amplitude.com/2/httpapi"
   IDENTIFY_URI_STRING     = "https://api.eu.amplitude.com/identify"
-  SEGMENTATION_URI_STRING = "https://amplitude.com/api/2/events/segmentation"
+  SEGMENTATION_URI_STRING = "https://analytics.eu.amplitude.com/api/2/events/segmentation"
   DELETION_URI_STRING     = "https://analytics.eu.amplitude.com/api/2/deletions/users"
 
   USER_WITH_NO_ACCOUNT = "user who doesn't have an account"
