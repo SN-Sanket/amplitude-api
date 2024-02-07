@@ -9,7 +9,7 @@ class AmplitudeAPI
   require_relative "amplitude_api/event"
   require_relative "amplitude_api/identification"
 
-  TRACK_URI_STRING        = "https://api2.amplitude.com/2/httpapi"
+  TRACK_URI_STRING        = "https://api.eu.amplitude.com/2/httpapi"
   IDENTIFY_URI_STRING     = "https://api2.amplitude.com/identify"
   SEGMENTATION_URI_STRING = "https://amplitude.com/api/2/events/segmentation"
   DELETION_URI_STRING     = "https://amplitude.com/api/2/deletions/users"
